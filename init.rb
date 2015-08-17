@@ -1,4 +1,4 @@
-Redmine::Plugin.register :members_block do
+Redmine::Plugin.register :redmine_members_block do
   name 'Members Block plugin'
   author 'Rian Bogle'
   description 'A plugin for managing the members block on project pages'
